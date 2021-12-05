@@ -1,5 +1,5 @@
 log using part1.log
-*Importing .csv file
+*Importing .csv file edited
 import delimited "C:\Users\HP\Desktop\coding_challenge\Part 1\New Variables.csv"
 describe
 rename base_educ educ
